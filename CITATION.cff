@@ -3,7 +3,7 @@ message: "If you use GryVids in your research, please cite it along with the und
 title: GryVids
 type: software
 license: Apache-2.0
-repository-code: "https://github.com/Grytrixllm/Grytrixllm-videomode"
+repository-code: "https://github.com/ayushnautiyal9520-create/Grytrixllm-videomode"
 authors:
   - given-names: Ayush
     family-names: Nautiyal

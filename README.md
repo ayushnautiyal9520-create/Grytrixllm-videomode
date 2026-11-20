@@ -37,7 +37,7 @@ Make high-quality AI videos on consumer hardware. Powered by [Video DeltaNet (VD
 
 1. Clone or download this repository:
    ```powershell
-   git clone https://github.com/Grytrixllm/Grytrixllm-videomode.git GryVids
+   git clone https://github.com/ayushnautiyal9520-create/Grytrixllm-videomode.git GryVids
    cd GryVids
    ```
 
@@ -70,7 +70,7 @@ git clone https://github.com/Grytrixllm/Grytrixllm-videomode.git GryVids
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Grytrixllm/Grytrixllm-videomode.git GryVids
+   git clone https://github.com/ayushnautiyal9520-create/Grytrixllm-videomode.git GryVids
    cd GryVids
    ```
 
@@ -95,7 +95,7 @@ git clone https://github.com/Grytrixllm/Grytrixllm-videomode.git GryVids
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Grytrixllm/Grytrixllm-videomode.git GryVids
+   git clone https://github.com/ayushnautiyal9520-create/Grytrixllm-videomode.git GryVids
    cd GryVids
    ./setup.sh
    ```
@@ -134,7 +134,7 @@ GryVids provides a fast command-line interface:
   author={Nautiyal, Ayush},
   year={2026},
   publisher={GitHub},
-  url={https://github.com/Grytrixllm/Grytrixllm-videomode}
+  url={https://github.com/ayushnautiyal9520-create/Grytrixllm-videomode}
 }
 ```
 

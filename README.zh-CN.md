@@ -35,7 +35,7 @@
 ### Windows
 
 ```powershell
-git clone https://github.com/Grytrixllm/Grytrixllm-videomode.git GryVids
+git clone https://github.com/ayushnautiyal9520-create/Grytrixllm-videomode.git GryVids
 cd GryVids
 .\gryvids.cmd
 ```
@@ -45,7 +45,7 @@ cd GryVids
 将 GryVids 作为插件安装到 ComfyUI：
 ```bash
 cd ComfyUI/custom_nodes
-git clone https://github.com/Grytrixllm/Grytrixllm-videomode.git GryVids
+git clone https://github.com/ayushnautiyal9520-create/Grytrixllm-videomode.git GryVids
 ```
 重启 ComfyUI 即可在扩展中直接使用 **GryVids**。
 

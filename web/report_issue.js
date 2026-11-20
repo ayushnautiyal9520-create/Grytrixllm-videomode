@@ -2,7 +2,7 @@
 // entry, and a tip above that menu after a finished video, shown until the
 // user closes it once.
 import { skin } from './glass/library.js';
-const ISSUE_FORM = 'https://github.com/Grytrixllm/Grytrixllm-videomode/issues/new';
+const ISSUE_FORM = 'https://github.com/ayushnautiyal9520-create/Grytrixllm-videomode/issues/new';
 const TIP_KEY = 'gryvids.report-tip';
 
 const gb = bytes => Number.isFinite(bytes) && bytes > 0 ? Math.round(bytes / 2 ** 30) : null;

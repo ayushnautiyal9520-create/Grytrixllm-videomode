@@ -7,7 +7,7 @@ from urllib.parse import urlencode
 
 from .feedback import scrub
 
-ISSUE_FORM = 'https://github.com/Grytrixllm/Grytrixllm-videomode/issues/new'
+ISSUE_FORM = 'https://github.com/ayushnautiyal9520-create/Grytrixllm-videomode/issues/new'
 # GitHub refuses very long addresses.
 MAX_ADDRESS = 7000
 MAX_PROBLEM = 600

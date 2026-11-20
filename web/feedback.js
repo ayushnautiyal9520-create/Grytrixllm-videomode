@@ -9,7 +9,7 @@ import { isolateDialogKeys, routeDialogKey } from './dialog_keys.js';
 import { productVersion } from './updates.js';
 import { skin } from './glass/library.js';
 
-const ISSUE_FORM = 'https://github.com/Grytrixllm/Grytrixllm-videomode/issues/new';
+const ISSUE_FORM = 'https://github.com/ayushnautiyal9520-create/Grytrixllm-videomode/issues/new';
 const DRAFT_KEY = 'gryvids.feedback-draft';
 const MAX_TEXT = 1500;
 const MAX_DIAGNOSTICS = 3000;
